@@ -12,7 +12,7 @@ public class Sleep1 {
 
 		do {
 			ischaged=false;
-			for (i=0;i<len-1;i++) {
+			for (abc=0;abc<len-1;abc++) {
 				if(array[i] > array[i+1]) {
 				temp=array[i];// 虛擬位置存放
 				array[i] =array[i+1];
