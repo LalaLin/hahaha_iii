@@ -5,8 +5,8 @@ public class Sleep1 {
 
 	// 排序1
 
-	public int[] sort1(int[] array) {
-		int i,temp;
+	public int[] hahahahaha1(int[] array) {
+		int abc,qqqqq;
 		int len=array.length;
 		boolean ischaged=false;
 
